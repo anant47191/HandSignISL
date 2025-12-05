@@ -1,0 +1,6 @@
+streamlit==1.29.0
+numpy
+opencv-python-headless==4.8.1.78
+mediapipe==0.10.14
+protobuf==3.20.*
+altair<5
